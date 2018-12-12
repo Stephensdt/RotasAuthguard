@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    background: rgb(102, 102, 102);
+    padding: 20px 0;
+    color: rgb(9, 27, 185);
+}
+.loginBox{
+    background: rgb(0, 0, 0);
+    margin-top: 20px;
+    padding: 10px 15px;
+    border: rgb(6, 21, 43) 1px solid;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14);
+}
+.loginBox h2{ margin-bottom: 25px; margin-left:45%;}
+.error{color: #a94442;}
